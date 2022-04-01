@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32228.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TesteMSDTC", "TesteMSDTC\TesteMSDTC.csproj", "{5AD2A48B-0A56-4745-8265-2AFABDFD73A2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5AD2A48B-0A56-4745-8265-2AFABDFD73A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5AD2A48B-0A56-4745-8265-2AFABDFD73A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5AD2A48B-0A56-4745-8265-2AFABDFD73A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5AD2A48B-0A56-4745-8265-2AFABDFD73A2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1C0DE0C4-A4F3-44CB-AEC4-1E2A076D31BD}
+	EndGlobalSection
+EndGlobal
